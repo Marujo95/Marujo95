@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Marujo95
+- 👀 I’m interested in developing my career working with Data Science or CyberSecurity areas
+- 🌱 I’m currently learning Python, SQL (MySQL, Oracle and SQLite), CyberSecurity
+- 📫 How to reach me - mvpa1995@outlook.com
+- ⚡ Fun fact: Gamer
+- 💼 My Linkdin - https://www.linkedin.com/in/marcusvparaujo/
